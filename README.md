@@ -5,9 +5,9 @@
 ## OVERVIEW
 
 The project performs the following tasks:
-1. Puts 20,000 and 100,000 random numbers into a Hazelcast distributed list.
+1. Puts 20,000 or 100,000 random numbers into a Hazelcast distributed list.
 2. Gets these numbers from the Hazelcast list.
-3. Inserts 20,000 and 100,000 random numbers into an Oracle SQL database table.
+3. Inserts 20,000 or 100,000 random numbers into an Oracle SQL database table.
 4. Selects these numbers from the Oracle SQL database table.
 5. Measures and prints the time taken for each of these operations.
 
